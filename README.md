@@ -2,8 +2,8 @@ blocker created by [postpwn](https://twitter.com/_postpwn)
 
 only for supported for iOS 10 & 11 devices such as iPhones, iPods and iPads.
 
-### [blocker](https://postpwn.github.io/blocker/)
-![demo_img]()
+### [blocker](https://postpwn.github.io/blocker)
+![demo_img](https://raw.githubusercontent.com/postpwn/blocker/gh-pages/images/blocker.jpg)
 
 ## Issues
 
